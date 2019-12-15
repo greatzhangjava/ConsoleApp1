@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Branch 1 created");
+            Console.WriteLine("Branch 1 added");
         }
     }
 }
